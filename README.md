@@ -6,7 +6,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit//catzsec/AntiVirusBlocker?color=blue)
 
 
-🛑 AntiVirusBlocker is a program to disable the victim from installing an antivirus by DN sinkholing all antivirus websites urls and IPs via the windows custom DNS router - c:\Windows\System32\Drivers\etc\hosts. To gain elevation to do so it uses a modified version of ![ForceAdmin](https://github.com/catzsec/ForceAdmin) 🛑
+🛑 AntiVirusBlocker disables the victim from installing an antivirus by DNS sinkholing all antivirus websites urls and IPs via the windows custom DNS router - c:\Windows\System32\Drivers\etc\hosts. To gain elevation to do so it uses a modified version of ![ForceAdmin](https://github.com/catzsec/ForceAdmin) 🛑
 
 ---
 <h1 align="center">A ⭐ and would be greatly apperciated <br>Follow for more exploits! </h1>
