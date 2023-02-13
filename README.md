@@ -37,7 +37,7 @@ Enter the project folder
 $ cd AntiVirusBlocker
 ```
 
-Run ForceAdmin:
+Run AVBlock:
 ```zsh
 $ powershell -File AntiVirusBlocker.ps1
 ```
