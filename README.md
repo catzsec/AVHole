@@ -1,4 +1,4 @@
-# 🛑 AntiVirusBlocker 🛑 ![](https://img.shields.io/github/followers/CatzSec.svg?style=social&label=Follow&maxAge=2592000)
+# 🛑 AVHole 🛑 ![](https://img.shields.io/github/followers/CatzSec.svg?style=social&label=Follow&maxAge=2592000)
 
 ![Downloads](https://img.shields.io/github/downloads/catzsec/AntiVirusBlocker/total.svg?color=red) 
 ![Stars](https://img.shields.io/github/stars/catzsec/AntiVirusBlocker.svg?color=yellow)
